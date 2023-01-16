@@ -1,0 +1,12 @@
+.wrapper{
+    margin: 50px 0 30px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.buttons {
+    width: 10em;
+    height:3em;
+  }
